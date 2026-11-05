@@ -1,0 +1,7 @@
+/mdv
+/build/
+/dist/
+*.o
+*.core
+core
+.DS_Store
